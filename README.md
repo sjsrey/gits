@@ -11,6 +11,6 @@ Inspired by [hoijui](https://gist.github.com/dbu/2843660#gistcomment-3252062)
 2. `alias gits=<repos>/gits.sh`
 3. head down working on multiple projects
 4. `gits`
-4. visit local clones needed status weeding
+4. visit local clones in need of status weeding
 5. sleep well
 
