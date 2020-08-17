@@ -6,8 +6,8 @@ Inspired by [hoijui](https://gist.github.com/dbu/2843660#gistcomment-3252062)
 
 ## Instructions
 
-1. clone repository
-2. `chmod +x_<repos>gits.sh`
+1. clone repository into `<repos>`
+2. `chmod +x <repos>gits.sh`
 2. `alias gits=<repos>/gits.sh`
 3. head down working on multiple projects
 4. `gits`
