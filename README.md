@@ -7,4 +7,5 @@ Inspired by [hoijui](https://gist.github.com/dbu/2843660#gistcomment-3252062)
 ## Instructions
 
 1. clone repository
+2. `chmod +x_<repos>giths.sh`
 2. `alias gits=<repos>/gits.sh`
